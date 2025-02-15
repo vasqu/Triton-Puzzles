@@ -1,0 +1,6 @@
+jaxtyping
+torch==2.5.1
+triton==3.2.0
+# notation might be wrong here but im too lazy
+triton-viz @ git+https://github.com/Deep-Learning-Profiling-Tools/triton-viz@v1.1.1
+pycairo
